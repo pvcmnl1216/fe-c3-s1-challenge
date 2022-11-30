@@ -1,1 +1,17 @@
 /* Add custom styles to display the fruits */
+#bdy{
+    background-color: rgb(54, 60, 57);
+    width: 1100px;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: aliceblue;
+    padding-top: 20px;
+}
+#Body{
+  justify-content: center;
+  padding: 20px;
+}
